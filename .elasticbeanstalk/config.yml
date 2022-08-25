@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: null
+    environment: Udagram-imagefilter-dev
     group_suffix: null
 deploy:
   artifact: ./www/Archive.zip
